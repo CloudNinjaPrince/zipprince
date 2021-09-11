@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince Tyagi
-- 👀 I’m interested in HTML, CSS, javaScript, C#, SQL, Angular and .Net Core.
+- 👀 I’m interested in javaScript, .Net and Angular.
 - 🌱 I’m currently Working on Angular and .net.
-- 💞️ I’m looking to collaborate on javaScript and .NET Core.
+- 💞️ I’m looking to collaborate on javaScript and .NET.
 - 📫 Reach me via email (pt5661258@gmail.com) and Twitter (https://twitter.com/theproprince).
 
 <!---
